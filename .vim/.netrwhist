@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/var/lib/tomcat7/conf'
+let g:netrw_dirhist_2='/var/lib/tomcat7/conf/Catalina'
+let g:netrw_dirhist_3='/var/lib/tomcat7/conf/Catalina/localhost'
+let g:netrw_dirhist_4='/home/sitesh/.dropbox'
+let g:netrw_dirhist_5='/etc/apache2/conf.d'
+let g:netrw_dirhist_6='/etc/ppp/resolv'
