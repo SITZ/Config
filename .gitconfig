@@ -2,6 +2,8 @@
 	name = Sitesh Shrivastava
 	email = siteshshrivastava@gmail.com
 [credential]
-	helper = cache --timeout=3600
+	helper = cache
 [core]
 	excludesfile = /home/sitesh/.global_ignore
+[color]
+	ui = true
