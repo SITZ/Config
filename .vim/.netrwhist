@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/home/sitesh/.gephi/0.8.1/dev/config/Preferences'
 let g:netrw_dirhist_2='/home/sitesh/.gephi/0.8.1/dev/config/Preferences/org'
 let g:netrw_dirhist_3='/home/sitesh/.gephi/0.8.1/dev/config/Preferences/org/netbeans'
+let g:netrw_dirhist_4='/home/sitesh/Documents/IdeaProjects/rtb-code-repo/target/surefire-reports'
+let g:netrw_dirhist_5='/usr/share/adium/message-styles/ubuntu.AdiumMessageStyle/Contents/Resources'
