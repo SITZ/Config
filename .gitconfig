@@ -7,3 +7,13 @@
 	excludesfile = /home/sitesh/.global_ignore
 [color]
 	ui = true
+[alias]
+	ci = commit
+	st = status
+	di = diff
+	co = checkout
+	k = !gitk --all
+	g = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --all
+	d = difftool
+[diff]
+	tool = meld
