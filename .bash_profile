@@ -41,9 +41,3 @@ export TODO="t"
 
 # Load Bash It
 source $BASH_IT/bash_it.sh
-
-# Load Scala SBT to $PATH
-export PATH=/home/sitesh/Downloads/sbt/bin:$PATH
-
-# Load Gephi to $PATH
-export PATH=/home/sitesh/Downloads/gephi/bin:$PATH
