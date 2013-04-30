@@ -17,3 +17,5 @@
 	d = difftool
 [diff]
 	tool = meld
+[push]
+	default = matching
