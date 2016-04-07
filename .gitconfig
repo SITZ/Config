@@ -1,8 +1,9 @@
 [user]
 	name = Sitesh Shrivastava
 	email = siteshshrivastava@gmail.com
+	signingkey = F10D4B0C
 [credential]
-	helper = cache
+	helper = osxkeychain
 [core]
 	excludesfile = /home/sitesh/.global_ignore
 [color]
